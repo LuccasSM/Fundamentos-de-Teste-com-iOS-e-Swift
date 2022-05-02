@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class Calculator {
+    func inserts (a: Int, b: Int) -> Int {
+        return a + b
+    }
+}
